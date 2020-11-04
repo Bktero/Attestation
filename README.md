@@ -7,6 +7,16 @@ Voir :
 
 ## Attestation-expo
 
+Project avec Expo.
+
 `expo start` puis choisir "Run in web browser". Ca fonctionne bien.
 
 Evidemment, la méthode de téléchargement du fichier n'est pas bonne.
+
+## Attestation-react-native
+
+Projet sans Expo.
+
+`npx react-native run-android`
+
+Ca fonctionne pas très bien du tout...
